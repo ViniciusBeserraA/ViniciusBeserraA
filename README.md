@@ -1,7 +1,7 @@
 <h1 align="center">Olá meu nome é Vinícius Beserra 👋</h1>
 <h3 align="center">A determinação é a chave do sucesso absoluto.</h3>
 
-<h3 align="left ">Conecte-se comigo:</h3>
+<h3 align="left ">Resumo</h3>
 <p align="left">
 
 Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode nos oferecer. Meu objetivo compreender e adquirir novas habilidades nas diversas tecnologias disponíveis no mercado. Seja bem-vindo ao meu perfil GitHub!
