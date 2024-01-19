@@ -1,6 +1,4 @@
-### Olá! Bem vindo ao meu perfil
-
-<h1 align="center">Olá meu nome é 👋, sou Vinícius Beserra</h1>
+<h1 align="center">Olá meu nome é Vinícius Beserra 👋</h1>
 <h3 align="center">A determinação é a chave do sucesso absoluto.</h3>
 
 <h3 align="left ">Conecte-se comigo:</h3>
