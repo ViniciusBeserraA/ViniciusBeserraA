@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou [Seu Nome], um entusiasta de [suas principais áreas de interesse]. Meu objetivo é [seu objetivo pessoal ou profissional]. Seja bem-vindo ao meu perfil GitHub!
+Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode nos oferecer. Meu objetivo é me aprimorar nas diversas tecnologias disponíveis no mercado. Seja bem-vindo ao meu perfil GitHub!
 
 
 ## Contatos:
