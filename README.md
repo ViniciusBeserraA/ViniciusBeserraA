@@ -12,10 +12,6 @@ Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode n
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
-
-
-## Contatos:
-
 [![Vinícius=Beserra stats-Dark](https://github-readme-stats.vercel.app/api?username=ViniciusBeserraA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeserraA&layout=compact&theme=dark#gh-dark-mode-only)
