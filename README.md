@@ -18,7 +18,7 @@ Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode n
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusBeserraA&show_icons=true&theme=radical)
 
 
 
