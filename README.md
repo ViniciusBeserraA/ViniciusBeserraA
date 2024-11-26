@@ -27,7 +27,7 @@ Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode n
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px">
 </p>
 
 
