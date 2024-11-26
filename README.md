@@ -14,16 +14,17 @@ Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode n
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) [![Build Status](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://dotnet.microsoft.com/) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 
+</p>
 
 
-
-
+<p align="left">
 
 ## Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeserraA&layout=compact&theme=dark&card_width=445#gh-dark-mode-only)[![Vinícius Beserra stats](https://github-readme-stats.vercel.app/api?username=ViniciusBeserraA&show_icons=true&theme=dark&card_width=445#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+</p>
 
-
+<p align="left"> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
