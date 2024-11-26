@@ -19,11 +19,13 @@ Olá! Sou Vinícius Beserra, um entusiasta de tecnologia e tudo o que ela pode n
 
 
 
-<p align="left">
+
 
 ## Estatísticas
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeserraA&layout=compact&theme=dark&card_width=445#gh-dark-mode-only)
 [![Vinícius Beserra stats](https://github-readme-stats.vercel.app/api?username=ViniciusBeserraA&show_icons=true&theme=dark&card_width=445#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
